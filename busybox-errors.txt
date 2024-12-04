@@ -1,1 +1,0 @@
-jq: error (at /tmp/tmp.3v4qntLdIM:40): Cannot iterate over null (null)
